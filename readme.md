@@ -171,22 +171,11 @@ All script is provided AS IS with no support or warranties.
 * [Telegram **(News)**](https://t.me/BitcoreNEWS) Bitcore Telegram **News** Channel
 * [Telegram Main Channel (English)](https://t.me/bitcore_cc) Bitcore Telegram **Main** Channel English
 
-* [Telegram (Spanish)](https://t.me/joinchat/CXvK0A9M8q5hIq7fGQiJTQ) Bitcore Telegram Channel Spain
-* [Telegram (Italian)](https://t.me/joinchat/B-3sTw9IXWvKx1R1-IbKyw) Bitcore Telegram Channel Italian
-* [Telegram (German)](https://t.me/Bitcore_BTX_German) Bitcore Telegram Channel German
+* [Telegram (Spanish)](https://t.me/Bitcore_BTX_ESP) Bitcore Telegram Channel Spain
+* [Telegram (German)](https://t.me/bitcore_de_cc) Bitcore Telegram Channel German
 * [Telegram (Russian)](https://t.me/btxrussian) Bitcore Telegram Channel Russia
-* [Telegram (Philippine)](https://t.me/joinchat/Cqe_mhDNQwZWxOb4luxW3g) Bitcore Telegram Channel Philippine
-* [Telegram (Turkish)](https://t.me/joinchat/FtdVegoRDXHhZoEor6afFg) Bitcore Telegram Channel Turkish
-* [Telegram (Ukraine)](https://t.me/bitcoreukraine) Bitcore Telegram Channel Ukraine
-* [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
-* [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
-* [Telegram (France)](https://t.me/Bitcore_BTX_France) Bitcore Telegram Channel France
-* [Telegram (Venezuela)](https://t.me/Bitcore_BTX_Vzla) Bitcore Telegram Channel Venezuela
-* [Telegram (Argentina)](https://t.me/bitcore_BTX_ARG) Bitcore Telegram Channel Argentina
-* [Telegram (Japan)](https://t.me/bitcore_btx_japan) Bitcore Telegram Channel Japan
-* [Telegram (Netherlands)](https://t.me/bitcore_nl) Bitcore Telegram Channel Netherlands
-
-* [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
+* [Telegram (Turkish)](https://t.me/Bitcore_Tr) Bitcore Telegram Channel Turkish
+* [Telegram (China)](https://t.me/bitcore_china) Bitcore Telegram Channel China
 
 
 ## Pools
